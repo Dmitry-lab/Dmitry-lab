@@ -5,7 +5,6 @@
 - 🌏 Познаю обширный мир web-технологий. В настоящее время изучаю TypeScript и Angular
 
 <br />
-<br />
 
 ### Мой стек:
 ![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
@@ -20,6 +19,6 @@
 ![Angular](https://img.shields.io/badge/_-Angular-292e33?style=flat-square&logo=angular&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/_-Vue.js-292e33?style=flat-square&logo=Vue.js&logoColor=fff)
 
-
+<br />
 ____
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
