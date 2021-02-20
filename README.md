@@ -2,7 +2,7 @@
 
 - 🐱‍🏍 Я начинающий front-end разработчик
 - :checkered_flag: Прошёл обучение на факультете web-разработки Яндекс.Практикума
-- 🌏 Познаю обширный мир web-технологий. В настоящее время изучаю TypeScript и Angular
+- 🌏 Познаю обширный мир web-технологий. В настоящее время осваиваю framework Vue.js
 
 
 ### Мой стек:
@@ -12,10 +12,8 @@
 ![JavaScript](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=react&logoColor=fff)
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Node.js](https://img.shields.io/badge/_-Node.js-292e33?style=flat-square&logo=node.js&logoColor=white)
-![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
+![Scss](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/_-TypeScript-292e33?style=flat-square&logo=typescript&logoColor=fff)
-![Angular](https://img.shields.io/badge/_-Angular-292e33?style=flat-square&logo=angular&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/_-Vue.js-292e33?style=flat-square&logo=Vue.js&logoColor=fff)
 
 <br />
