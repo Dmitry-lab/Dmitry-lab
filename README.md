@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=react&logoColor=fff)
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Node.js](https://img.shields.io/badge/_-Node.js-292e33?style=flat-square&logo=node.js&logoColor=white)
-![Scss](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=scss&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/_-Vue.js-292e33?style=flat-square&logo=Vue.js&logoColor=fff)
 
