@@ -11,9 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=react&logoColor=fff)
 ![Redux](https://img.shields.io/badge/_-Redux-292e33?style=flat-square&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Node.js](https://img.shields.io/badge/_-Node.js-292e33?style=flat-square&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/_-Express-292e33?style=flat-square&logo=express&logoColor=white)
 <br />
 
 ____
