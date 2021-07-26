@@ -13,6 +13,7 @@
 ![Redux](https://img.shields.io/badge/_-Redux-292e33?style=flat-square&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Node.js](https://img.shields.io/badge/_-Node.js-292e33?style=flat-square&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/_-Express-292e33?style=flat-square&logo=express&logoColor=white)
 <br />
 
 ____
