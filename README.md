@@ -10,12 +10,9 @@
 ![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=react&logoColor=fff)
+![Redux](https://img.shields.io/badge/_-Redux-292e33?style=flat-square&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Node.js](https://img.shields.io/badge/_-Node.js-292e33?style=flat-square&logo=node.js&logoColor=white)
-![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
-
-![Vue.js](https://img.shields.io/badge/_-Vue.js-292e33?style=flat-square&logo=Vue.js&logoColor=fff)
-
 <br />
 
 ____
